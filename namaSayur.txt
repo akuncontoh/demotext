@@ -1,3 +1,6 @@
 Sawi
 Wortel
 tomat
+
+Cabai
+Kentang
